@@ -1,0 +1,11 @@
+rpc: ""
+private_key: ""
+amount:
+  min: 0.1
+  max: 0.3
+gas: 3
+delay:
+  min: 10
+  max: 15
+cycle_time: 24
+token_contract_address: ""
