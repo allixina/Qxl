@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+config.yml
+wallet.txt
 
 # Spyder project settings
 .spyderproject
